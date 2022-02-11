@@ -4,7 +4,7 @@ public class Course {
 	
 	
 	
-//	public double promedioEstudiante() {
-//		
-//	}
+	public double promedioEstudiante() {
+		return 0;
+	}
 }
